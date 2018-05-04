@@ -1,0 +1,14 @@
+{
+"food": [
+	{
+	  "name": "Jollibee",
+	  "id": "1",
+	  "location": "Ayala Center Cebu"
+	},
+
+	{
+	  "name": "Mang Inasal",
+	  "id": "2",
+	  "location": "Colon"
+	}]
+}
